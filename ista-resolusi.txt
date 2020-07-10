@@ -1,6 +1,6 @@
 ISTA Resolusi
-- Konsisten coding setiap hari minimal 1 jam
 - Pengembangan platform Penerimaan Santri Baru (PSB) Online
 - Pengembangan platform biro jodoh Ponpes Imam Syafi'i Tulungagung
 - Pengembangan platform Sistem Informasi Manajemen Pondok Pesantren
 - Kolaborasi dengan banyak departemen IT di pondok pesantren salafi lainnya di Indonesia
+- Kolaborasi dengan banyak ponpes di seluruh Indonesia
