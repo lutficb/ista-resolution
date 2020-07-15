@@ -1,0 +1,3 @@
+RENCANA PENGEMBANGAN SISTEM INFORMASI ISTA
+- Pengembangan sistem informasi manajemen raport
+- Pengembangan sistem informasi manejemen inventaris departemen IT
